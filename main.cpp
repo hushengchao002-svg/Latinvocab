@@ -46,16 +46,6 @@ bool complexQuestion(vector<string> vocabList,vector<string> answersheet){
 
 
 int main(){
-    cout<<"This is created to inprove the vocab of sir Shengchao Hu in Latin class"<<endl;
-    cout<<"He think he is going to fail the class"<<endl;
-    int loop=0;
-    cout<<"1.start\n2.quit";
-    cin>>loop;
-    loop=loop%2;
-    cout<<"have you figured out the files reading problems?"<<endl;
-    while(loop==1){
-        cout<<"how many Q's"<<endl;
-        
-        
-    }
+  
+    return 0;
 }
