@@ -39,13 +39,19 @@ vector<int> sort(vector<int> vec){
 }
 
 
-bool complexQuestion(vector<string> vocabList,vector<string> answersheet){
-    
-}
+
 
 
 
 int main(){
-  
+    /*
+    1. ask user for what part they wanted to be tested on
+    2.options include: grammar, vocab, and story
+    3.
+    
+    
+    
+    
+    */
     return 0;
 }
